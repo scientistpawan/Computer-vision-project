@@ -1,4 +1,4 @@
-In this Audio Visualization project, I am going to dig deep on audio dataset (GTZAN Music Genre dataset) and will perform:-
+In this Audio Visualization project, I worked on audio dataset (GTZAN Music Genre dataset) and performed:-
 1. Audio Preprocessing
 2. Audio Visualization
 3. Audio Classification
